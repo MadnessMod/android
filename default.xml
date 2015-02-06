@@ -563,7 +563,7 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" />
   <project path="vendor/" name="MadnessMod/android_vendor_lge_gee" />
   <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
-  <project path="vendor/extra" name="MadnessMod/android_vendor_madness" />
+  <project path="vendor/extra" name="MadnessMod/android_vendor_madness" revision="master"/>
   <project path="vendor/cyngn" name="cyngn/android_vendor_cyngn" />
   <project name="MadnessMod/android_device_lge_geehrc" path="device/lge/geehrc" remote="github" revision="cm-12.0" />
   <project name="MadnessMod/kernel_msm" path="device/lge/geehrc-kernel" remote="github" revision="gee-lollipop" />
